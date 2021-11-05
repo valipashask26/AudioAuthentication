@@ -1,0 +1,2 @@
+python AudioAuthentication.py
+pause
